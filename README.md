@@ -20,9 +20,192 @@
 📌 This language deserves a lot of attention in today's world, and why not since it can address so many real-world problems?
 
 
+<h1> Projects So Far ... </h1>
+
 <table>
+<tr>
 
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Audiobook">
+            <sub><b>Audiobook</b></sub>
+        </a>
+</td>
 
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Desktop-Notification">
+            <sub><b>Desktop-Notification</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Dice-Roll-Simulator">
+            <sub><b>Dice-Roll-Simulator</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Madlibs-Generator">
+            <sub><b>Madlibs-Generator</b></sub>
+        </a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Make-API">
+            <sub><b>Make-API</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Medium%20Article%20Reader">
+            <sub><b>Medium Article Reader</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Quiz%20Game">
+            <sub><b>Quiz Game</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Rock_Paper_Scissors">
+            <sub><b>Rock-Paper-Scissors</b></sub>
+        </a>
+</td>
+
+</tr>
+<tr>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Send-Email">
+            <sub><b>Send-Email</b></sub>
+        </a>
+</td>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Tesla">
+            <sub><b>Tesla</b></sub>
+        </a>
+</td>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/MorseCode%20Translator">
+            <sub><b>MorseCode Translator</b></sub>
+        </a>
+</td>
+
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Weather">
+            <sub><b>Weather</b></sub>
+        </a>
+</td>
+
+</tr>
+<tr>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/ProjectEuler">
+            <sub><b>ProjectEuler</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/AudioRecorder">
+            <sub><b>AudioRecorder</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Hangman">
+            <sub><b>Hangman</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Voice-to-Text">
+            <sub><b>VoiceToText</b></sub>
+        </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/text-translate">
+            <sub><b>TextTranslate</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Browser">
+            <sub><b>Own_browser</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/HandCricket">
+            <sub><b>HandCricket</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/English%20Thesaurus">
+            <sub><b>English Thesaurus</b></sub>
+        </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/BMI_calculator">
+            <sub><b>BMI_calculator</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Higher-Lower">
+            <sub><b>Higher-Lower</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/IPv4_Calculator-main">
+            <sub><b>IPv4_Calculator</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/KbdXylo">
+            <sub><b>KbdXylo</b></sub>
+        </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/NASA-APOD">
+            <sub><b>NASA-APOD</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Neurons">
+            <sub><b>Neurons</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Qt5_YouTube">
+            <sub><b>Qt5_YouTube</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Tic-Tac-Toe">
+            <sub><b>Tic-Tac-Toe</b></sub>
+        </a>
+  </td>
+</tr>  
+<tr>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Turtle%20Pattern">
+            <sub><b>TurtlePattern</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/duplicate_search">
+            <sub><b>Duplicate-search</b></sub>
+        </a>
+  </td>
+  <td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/snake_water_gun_game">
+            <sub><b>Snake-Water-Gun</b></sub>
+        </a>
+</tr>
+</table>
 
 ## Run these projects online :
 
