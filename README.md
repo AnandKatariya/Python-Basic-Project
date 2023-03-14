@@ -238,7 +238,7 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mohitmahajan5824">
+        <a href="https://github.com/mohitmahajan095">
             <img src="https://avatars.githubusercontent.com/u/73893201?v=4" width="100;" alt="Mohit mahajan"/>
             <br />
             <sub><b>Mohit Mahajan</b></sub>
