@@ -40,3 +40,4 @@ Button(master, text="Down", command=lambda: Screen_rotation(
 
 
 mainloop()
+this code is written by @Priyankabiswas06
