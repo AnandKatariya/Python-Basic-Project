@@ -33,7 +33,6 @@ pdfread = PyPDF2.PdfFileReader(pdfobj)
 
 x = pdfread.numPages
 
-
 for i in range(x):
     pageObj = pdfread.getPage(i)
     with open(txtpath, "a+") as f:
