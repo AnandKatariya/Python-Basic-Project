@@ -1,4 +1,4 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/c892f4b2-44b7-4446-bb36-1e8c43a3ddab" /><p align="center"> <img src="https://www.freecodecamp.org/news/content/images/2022/08/giphy-2.gif" height="150" width="150"> </p>
+<p align="center"> <img src="https://www.freecodecamp.org/news/content/images/2022/08/giphy-2.gif" height="150" width="150"> </p>
 
 <h1 align="center">Welcome to repositories of all basic project of python</h1></br></br>
 <B>Basic project for python</B>
@@ -244,7 +244,7 @@
             <br />
           <sub><b>Jay Shaha</b></sub>
           <td align="center">
-        <a href="https://github.com/DhruvC-hub">
+        <a href="https://github.com/DhruvC-hub"> <br>
             <img src="https://avatars.githubusercontent.com/u/231540817?v=4" width="100;" alt="Dhruv Patil"/>
             <br />
             <sub><b>Dhruv Patil</b></sub>
